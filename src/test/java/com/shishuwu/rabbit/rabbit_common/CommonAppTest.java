@@ -15,6 +15,6 @@ public class CommonAppTest {
 	
 	@Test
 	public void testSayHi(){
-		
+		new CommonApp().sayHi();
 	}
 }
