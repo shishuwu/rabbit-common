@@ -1,6 +1,6 @@
 package com.shishuwu.rabbit.rabbit_common;
 
-public interface CommonInterfacex {
+public interface CommonInterface {
 	String print();
 	
 	void sayHi();
